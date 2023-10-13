@@ -1,7 +1,8 @@
+upgrade pip
 numpy
 pandas
 datetime
-sktime==0.4.1
+sktime
 scikit-learn
 statsmodels
 pmdarima
