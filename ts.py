@@ -10,10 +10,8 @@ import warnings
 warnings.filterwarnings("ignore")
 
 "# Stock Price Prediction"
-"This is an app to predict the High and Low of the given Stock. You can select different stocks, intervals, periods from the sidebar. Feel free to optimize with different models but remember holt-winter model give you the best Accuracy, You can get some error with the different model at some point, because not all the algorithms/model is open/free for each stocks."
-"Contact me ASAP to get the best prediction Web Application [here](https://www.linkedin.com/in/siumrakibulhasan/).Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/siumrakibulhasan/)\
-        or via [e-mail](mailto:rakibulhsium@gmail.com)."
-"Please Select Holt-Winter Model to get the Best Accuracy, Thanks"
+"This is a testing phase for seeing the difference between the model which can predict s&p 500 with more accuracy,You can select different stocks, intervals, periods from the sidebar. Feel free to optimize with different models "
+"Please Select Holt-Winter or ARIMA Model to get the Best Accuracy, Thanks"
 
 db = sq.connect('stocks.db')
 
