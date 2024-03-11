@@ -9,7 +9,7 @@ from preprocess import preprocessing
 import warnings
 warnings.filterwarnings("ignore")
 
-"# Stock Price Prediction"
+"# S&P 500 Prediction"
 "This is a testing phase for Thumos Capital just to see the difference between the model prediction graphs which can predict s&p 500 with more accuracy, Select the intervals, periods from the sidebar. Feel free to optimize with different models "
 "Please Select Holt-Winter or ARIMA Model to get the Best Accuracy, Thanks"
 
